@@ -1,5 +1,5 @@
 return {
-  { "shausingh/nord.nvim" },
+  { "shaunsingh/nord.nvim" },
   {
     "catppuccin/nvim",
     config = function()
